@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "widgets": [
+    {
+      "uri": "/interactive-quiz",
+      "name": "Interactive Quiz",
+      "description": "Answer generated MCQs and review score and explanations",
+      "tags": [
+        "education",
+        "quiz"
+      ]
+    },
+    {
+      "uri": "/interactive-mind-map",
+      "name": "Interactive Mind Map",
+      "description": "View and download a generated hierarchical SVG mind map",
+      "tags": [
+        "education",
+        "mind-map"
+      ]
+    }
+  ]
+}
